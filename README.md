@@ -32,6 +32,7 @@ HEROKU (https://www.heroku.com) has been preferred as the service provider.
 - Database Technologies
 	*  SQLite (for development)
 	*  MYSQL ( for deployment )
+	*  PostgreSQL(for deployment)
 - Git Repository
 	*  GitHub (https://github.com/GMK654-Web-GIS-LBS/grupcc)
 - Dataset
